@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1692208204 source:c:\users\be129\documents\videoinfo\main.cpp
-	<iostream>
-	<math.h>
-	<stdio.h>
-
